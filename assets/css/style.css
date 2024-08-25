@@ -7,3 +7,16 @@
 body {
   font-family: sans-serif;
 }
+
+.card-personalized {
+  background-color: #ecebeb;
+}
+
+.btn-personalized {
+  background-color: #387446;
+  color: white;
+}
+
+.btn-cancel-personalized {
+  background-color: #ecebeb;
+}
